@@ -1,0 +1,33 @@
+Question:
+	en:How was your experience at Al Salwa Palace?	
+	ar:كيف كانت تجربتك في قصر السلوى؟
+	es:¿Cómo fue tu experiencia en Al Salwa Palace?
+Answers:
+	en:What is the Salwa palace?
+	ar:ما هو قصر سلوى؟
+	es:¿Qué es el palacio Salwa?
+	en:Ah.. um.. yes t was overall okay, I guess
+	ar:آه.. أممم.. نعم، كان الأمر جيدًا بشكل عام، على ما أعتقد
+	es:Ah... um... sí, en general estuvo bien, supongo.
+Question:
+	en:How did you find Al Marefa University?	
+	ar:كيف وجدت جامعة المعرفة؟
+	es:¿Cómo conociste la Universidad Al Marefa?
+Answers:
+	en:What is Al Maa'refa university?
+	ar:ما هي جامعة المعرفة؟
+	es:¿Qué es la Universidad Al Maa'refa?
+	en:What is the significance of it?
+	ar:ما هي أهميته؟
+	es:¿Cuál es el significado de esto?
+	en:Oh yes, I enjoyed that very much
+	ar:أوه نعم، لقد استمتعت بذلك كثيرًا
+	es:Oh sí, lo disfruté mucho.
+Question:
+	en:On a rate of 1 to 5, how much would you recommend visiting Al Daryiah for a friend?	
+	ar:على معدل 1 إلى 5، ما هو المبلغ الذي تنصح به لزيارة الدرعية لصديق؟
+	es:En una escala de 1 a 5, ¿cuánto recomendarías visitar Al Daryiah a un amigo?
+Answers:
+	en:Uhmm ... I would probably say ... a 4 and a half maybe..
+	ar:أممم... ربما أقول... 4 ونصف ربما..
+	es:Umm... probablemente diría... un 4 y medio quizás...
